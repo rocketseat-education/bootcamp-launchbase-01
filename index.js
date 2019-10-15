@@ -13,4 +13,10 @@ const notaAluno03 = 2
 
 const media = (notaAluno01 + notaAluno02 + notaAluno03) / 3;
 
-console.log(media)
+
+if (media > 5) {
+  console.log(`A média foi de ${media} e está acima!`)
+}
+else {
+  console.log(`A média foi de ${media} e está abaixo.`)
+}
