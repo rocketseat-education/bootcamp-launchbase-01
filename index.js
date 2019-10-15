@@ -34,7 +34,13 @@ const alunos2 = [
 ]
 
 function calculateMedia(alunos) {
-  const media = (alunos[0].nota + alunos[1].nota + alunos[2].nota) / 3;
+
+  let media = 0;
+
+  for (let i = 0; i < alunos.length; i++) {
+    media = media + alunos[i].nota;
+  }
+  media = media / alunos.length;
   
   if (media > 5) {
     console.log(`A média foi de ${media} e está acima!`)
