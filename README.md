@@ -6,7 +6,7 @@
   Introdução à programação
 </h3>
 
-<p align="center">Código do primeiro módulo do <a href="https://rocketseat.com.br/bootcamp">Bootcamp LaunchBase</a> 🚀👨🏻‍🚀</p>
+<p align="center">Código do primeiro módulo do <a href="https://rocketseat.com.br/launchbase">Bootcamp LaunchBase</a> 🚀👨🏻‍🚀</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-launchbase-01?color=%23F7DF1E">
