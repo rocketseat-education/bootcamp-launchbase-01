@@ -40,10 +40,15 @@ _ps: Se precisar de ajuda para fazer um clone, esse [tutorial aqui](https://help
 
 ## 🤔 Como contribuir
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+Se quiser contribuir para esse repositório aqui, seja corrigindo algum problema, adicionando comentários ou melhorando a documentação, você pode seguir esse tutorial abaixo:
+
+- Faça [um fork](https://help.github.com/pt/github/getting-started-with-github/fork-a-repo) desse repositório;
+- Entre no seu perfil no GitHub e faça um clone do repositório que você fez um fork;
+- Cria uma branch com a sua alteração: `git checkout -b minha-alteracao`;
+- Faça as alterações necessárias no código ou documentação;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Faça push para a sua branch: `git push origin minha-alteracao`;
+- Agora é só abrir a sua Pull Request no repositório que você fez o fork;
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
